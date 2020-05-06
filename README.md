@@ -1,2 +1,1 @@
-# traning-project
-First git Project
+Venkata Durga Rao
